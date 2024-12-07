@@ -1,8 +1,10 @@
 body {
+    justify-items: center;
     background-color: var(--bgColor-default);
 }
 
 .gist {
+    max-width: 620px;
     color: var(--fgColor-default) !important;
 }
 
