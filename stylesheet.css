@@ -1,0 +1,12 @@
+body {
+    background-color: var(--bgColor-default);
+}
+
+.gist {
+    color: var(--fgColor-default) !important;
+}
+
+img {
+    border-radius: 12px;
+    border: 1px solid var(--borderColor-muted);
+}
